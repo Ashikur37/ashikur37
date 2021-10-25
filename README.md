@@ -1,12 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Ashikur Rahman</h1>
 <h3 align="center">### A Mobile & Web Developer as well as Trainer </h3>
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur37&layout=compact&hide=html" alt="ashikur37" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikur37&show_icons=true" alt="ashikur37" /></p>
-<br />
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 - 🔭 I’m currently working at Alesha Solution
 - 💻 The tech, I'm interested in Android, iOS, Flutter Mobile & Web, PHP & Laravel, Node JS, 
