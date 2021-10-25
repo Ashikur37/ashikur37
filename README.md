@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Ashikur Rahman</h1>
-<h3 align="center">Full stack developer </h3>
+<h3 align="center">### A Mobile & Web Developer as well as Trainer </h3>
 
 <br />
 <!--
