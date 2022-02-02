@@ -20,7 +20,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ashikur-rahman-96137b134/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saiful Islam" height="22" width="22" /></a>
-<a href="https://www.facebook.com/piash.ashik.3" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saiful1186" height="22" width="22" /></a>
+<a href="https://www.facebook.com/piash.ashik.3" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ashikur Rahman" height="22" width="22" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur37&layout=compact&hide=html" alt="ashikur37" /></p>
 
 
