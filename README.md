@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there 👋, I'm Ashikur Rahman</h1>
-<h3 align="center">### Full stack developer </h3>
-<h3 align="center">### Contributor at <a href="http://fluttertune.com/">fluttertune.com</a> </h3>
+<h3 align="center">### A Mobile & Web Developer as well as Trainer </h3>
 
 
-- 🔭 I’m currently working at Beauty Booth Qatar
-- 💻 The tech, I'm interested in  Node JS,React JS,Nest JS,Next JS 
+
+- 🔭 I’m currently working at Alesha Solution
+- 💻 The tech, I'm interested in Android, iOS, Flutter Mobile & Web, PHP & Laravel, Node JS, 
 - ✍ Trainer, I am loving to teach someone about tech.
 - ✨ I'm learning better things for Mobile App Development, Web scrapping, Big Data Analysis, Automations etc.
 - 
