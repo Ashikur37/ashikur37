@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at Beauty Booth Qatar
 - 💻 The tech, I'm interested in Node JS,React JS,Nest JS,Next JS,GraphQL
 - ✍ Trainer, I am loving to teach someone about tech.
-- ✨ I'm learning better things for Mobile App Development, Web scrapping, Big Data Analysis, Automations etc.
+- ✨ I'm learning better things for Web3, AWS, Kubernetes,Hadoop etc.
 - 
 <!--
 - 👯 I’m looking to collaborate on  *other content creators.
